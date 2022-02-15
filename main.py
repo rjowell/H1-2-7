@@ -1,8 +1,6 @@
 '''
-Whole Number - pos, neg, 0 - INTEGER
-Num with a decimal point - float
-True / False - BOOLEAN
-"Text inside of quotes" - STRING
+HOMEWORK:
+
 
 
 '''
